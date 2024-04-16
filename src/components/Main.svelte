@@ -25,7 +25,7 @@
   let benefits = [
       {
           metric: "10x",
-          name: "Bootcamp Student & Self-Taught Developer",
+          name: "A bootcamp student & self-taught developer",
           description:
               "I am currently enrolled in the coding program at Bay Valley Tech Code Academy. In addition to my bootcamp studies, I an a self-taught developer who has used free online resources to expand my knowledge and skills. I have a deep passion for the creative and problem-solving aspects of developing innovative online experiences. I started with JavaScript, HTML & CSS and have since advanced to mastering JavaScript frameworks. I am also actively expanding my expertise in backend programming, design, and cloud services.",
       },
