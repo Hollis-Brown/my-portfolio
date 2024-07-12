@@ -18,7 +18,7 @@ h3,
 }
 
 .blueShadow {
-    box-shadow: 0px 14px 55px rgba(109, 40, 217, 0.45);
+    box-shadow: 0px 14px 55px rgba(9, 66, 221, 0.45);
 }
 
 .specialSpin {
@@ -44,3 +44,4 @@ h3,
     object-position: center;
     object-fit: cover;
 }
+
