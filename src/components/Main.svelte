@@ -208,6 +208,7 @@
     </div>
     <div class="grid grid-cols-1 lg:grid-cols-3 gap-12 lg:gap-10 -mt-16">
       <Step step={steps[3]}>
+        <h6>Coming soon!</h6>
         <p>
           The Web Scraper Server is created with <strong class="text-blue-500"
             >Node.js</strong
@@ -221,6 +222,7 @@
         </p>
       </Step>
       <Step step={steps[4]}>
+        <h6>Coming soon!</h6>
         <p>
           The CRON Job Server is created with <strong class="text-blue-500"
             >Cherrio</strong
@@ -234,6 +236,7 @@
         </p>
       </Step>
       <Step step={steps[5]}>
+        <h6>Coming soon!</h6>
         <p>
           The Google Cloud Functions Project is hosted on
           <strong class="text-blue-500">Google Cloud Platform</strong>,
@@ -253,6 +256,7 @@
     </div>
     <div class="grid grid-cols-1 lg:grid-cols-4 gap-12 lg:gap-10 -mt-16">
       <Step step={steps[6]}>
+        <h6>Coming soon!</h6>
         <p>
           The Next.js E-commerce Project is built with <strong
             class="text-blue-500">Next.js, TailwindCss, Google Fonts,</strong
@@ -277,6 +281,7 @@
         </p>
       </Step>
       <Step step={steps[8]}>
+        <h6>Coming soon!</h6>
         <p>
           The Chat App is a <strong class="text-blue-500"
             >React.js & Material UI</strong
@@ -291,6 +296,7 @@
         </p>
       </Step>
       <Step step={steps[9]}>
+        <h6>Coming soon!</h6>
         <p>
           The Polling Web App is a <strong class="text-blue-500"
             >JavaScript, HTML & CSS</strong
