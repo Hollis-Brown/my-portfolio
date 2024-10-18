@@ -120,7 +120,7 @@
       </h2>
       <p class="text-base sm:text-lg md:text-xl">
         My <span class="text-blue-500"> favorite tech</span> includes JavaScript,
-        particularly React.js and Sveltekit, as well as Tailwind CSS—for now!
+        particularly Sveltekit and React.js — my projects are already picked out for that library and other more advanced tech — as well as Tailwind CSS—for now!
       </p>
       <a
         href="#connect"
