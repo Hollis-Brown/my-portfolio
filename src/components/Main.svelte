@@ -114,7 +114,7 @@
       class="flex flex-col lg:justify-center text-center gap-6 md:gap-8 lg:gap-10"
     >
       <h2 class="font-semibold text-4xl sm:text-5xl md:text-8xl">
-        Hi! I'm <span class="poppins text-blue-500">Hollis</span> Brown
+        Hi! I'm <span class="poppins text-blue-500">Hollis</span> B
         <br />Web
         <span class="poppins text-blue-500">Developer</span>
       </h2>
