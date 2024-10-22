@@ -14,7 +14,7 @@
       icon: "fa-solid fa-thermometer-half",
       description:
         "The Weather App is created with React.js, JSX & CSS! I utilized OpenWeatherMap and GeoDB APIs, showcasing interactive weather forecasts, search feature to fetch data, and city autocomplete features. I also got practice using the react-accordion and react-select-async-paginate UI packages.",
-      link: https://sleek-weather-app.netlify.app/
+      link: "https://sleek-weather-app.netlify.app/"
     },
     {
       name: "AI-designed Portfolio App",
@@ -74,7 +74,7 @@
         "I graduated Bay Valley Tech Code Academy in June 2024. In addition to my bootcamp studies, I am a self-taught developer who has used free online resources to expand my knowledge and skills. I have a passion for the creative and problem-solving aspects of developing web application. I started with JavaScript, HTML & CSS and have since advanced to JavaScript frameworks. I am also actively expanding my knowledge in backend programming, design, and cloud services.",
     },
     {
-      name: "A detailed-oriented approach",
+      name: "A detailed-oriented developer",
       description:
         "As a junior developer, I prioritize attention to detail in my work. When it comes to coding I ensure clean and well-structured code that adheres to best practices. This focus on detail enables me to deliver high-quality solutions and contribute to the overall success of projects.",
     },
@@ -95,7 +95,7 @@
       alt: "Certification 2",
     },
     {
-      src: "/assets/Hollis Brown-Student-ID-23166-Basic Content Management Systems Module.jpg",
+      src: "/assets/Hollis Brown-Student-ID-23166-Basic Content Management Systems (CMS) Module.jpg",
       alt: "Certification 3",
     },
     {
@@ -105,6 +105,22 @@
     {
       src: "/assets/Hollis Brown-Student-ID-23166-Asynchronous JavaScript Module.jpg",
       alt: "Certification 5",
+    },
+    {
+      src: "/assets/Hollis Brown-Student-ID-23166-Introduction to React Framework Module.jpg",
+      alt: "Certification 6",
+    },
+    {
+      src: "/assets/Hollis Brown-Student-ID-23166-Frontend Module.jpg",
+      alt: "Certification 7",
+    },
+    {
+      src: "/assets/Hollis Brown-Student-ID-23166-Backend Module.jpg",
+      alt: "Certification 8",
+    },
+    {
+      src: "/assets/Hollis Brown-Student-ID-23166-Full-Stack Module.jpg",
+      alt: "Certification 9",
     },
   ];
 </script>
