@@ -14,6 +14,7 @@
       icon: "fa-solid fa-thermometer-half",
       description:
         "The Weather App is created with React.js, JSX & CSS! I utilized OpenWeatherMap and GeoDB APIs, showcasing interactive weather forecasts, search feature to fetch data, and city autocomplete features. I also got practice using the react-accordion and react-select-async-paginate UI packages.",
+      link: https://sleek-weather-app.netlify.app/
     },
     {
       name: "AI-designed Portfolio App",
@@ -120,7 +121,7 @@
       </h2>
       <p class="text-base sm:text-lg md:text-xl">
         My <span class="text-blue-500"> favorite tech</span> includes JavaScript,
-        particularly Sveltekit and React.js — my projects are already picked out for that library and other more advanced tech — as well as Tailwind CSS—for now!
+        particularly Sveltekit and React.js, as well as Tailwind CSS—for now!
       </p>
       <a
         href="#connect"
@@ -161,7 +162,7 @@
     <div
       class="mx-auto text-4xl px-4 py-2 flex items-center gap-2 -mb-4 sm:-mb-0 mt-20"
     >
-      <span class="poppins text-blue-500">Front-end</span>Projects
+      <span class="poppins text-blue-500">Frontend</span>Projects
     </div>
     <div class="grid grid-cols-1 lg:grid-cols-3 gap-12 lg:gap-10 -mt-16">
       <Step step={steps[0]}>
@@ -204,7 +205,7 @@
     <div
       class="mx-auto text-4xl px-4 py-2 flex items-center gap-2 -mb-4 sm:-mb-0 -mt-2"
     >
-      <span class="poppins text-blue-500">Back-end</span>Projects
+      <span class="poppins text-blue-500">Backend</span>Projects
     </div>
     <div class="grid grid-cols-1 lg:grid-cols-3 gap-12 lg:gap-10 -mt-16">
       <Step step={steps[3]}>
@@ -249,7 +250,7 @@
     <div
       class="mx-auto text-4xl px-4 py-2 flex items-center gap-2 -mb-4 sm:-mb-0 -mt-2"
     >
-      <span class="poppins text-blue-500">Full-stack</span>Projects
+      <span class="poppins text-blue-500">Full-Stack</span>Projects
     </div>
     <div class="grid grid-cols-1 lg:grid-cols-4 gap-12 lg:gap-10 -mt-16">
       <Step step={steps[6]}>
