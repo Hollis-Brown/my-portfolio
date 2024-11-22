@@ -16,6 +16,11 @@
             <a href="https://github.com/Hollis-Brown" target="_blank">
                 <i class="fa-brands fa-github"></i>
             </a>
+            <a href="/assets/hollis-dev-resume.pdf" target="_blank" rel="noopener noreferrer">
+                Download My Resume
+              </a>
+              
+              
         </div>
         <p class="mx-auto text-sm opacity-70">or</p>
         <p class="">hollisbrown291@gmail.com</p>
