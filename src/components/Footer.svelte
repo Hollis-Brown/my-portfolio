@@ -9,7 +9,7 @@
         <div
             class="flex items-center gap-4 sm:gap-6 text-2xl sm:text-3xl md:text-4xl mx-auto"
         >
-            <a href="https://www.linkedin.com/in/hollis-brown-aaa854243/" target="_blank">
+            <a href="https://www.linkedin.com/in/hollisb/" target="_blank">
                 <i class="fa-brands fa-linkedin-in"></i>
             </a>
             

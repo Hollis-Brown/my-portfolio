@@ -64,24 +64,66 @@
       description:
         "The Polling Web App is a JavaScript, HTML & CSS web application, hosted on Firebase, that has a Node.js server! It generates static webpages with client-side and server-side rendering, persists data from a CRUD API using Firestore from Firebase, and features a sleek UI!",
     },
+    {
+  name: "Word Scramble Game",
+  icon: "fa-solid fa-random",
+  description:
+    "The Word Scramble Game is a JavaScript, HTML & CSS web application that challenges players to unscramble animal words. It features an attempts counter and a scoring system",
+},
+{
+  name: "Landing Page",
+  icon: "fa-solid fa-record-vinyl",
+  description:
+    "The Landing Page is a responsive HTML, CSS, and JavaScript website for a record player store. It showcases featured turntables, has an email signup, and has a lovely color scheme.",
+},
+{
+  name: "Meme Generator",
+  icon: "fa-solid fa-laugh-squint",
+  description:
+    "The Meme Generator is a React-based web application that allows users to create custom memes from randomly chosen memes. It integrates with an external API to fetch popular meme images, enables text overlay, and provides options to download or share the created memes on social media.",
+},
+{
+  name: "Grocery List",
+  icon: "fa-solid fa-shopping-cart",
+  description:
+    "The Grocery List is a CRUD application built with JavaScript, HTML, and CSS. It allows users to add, delete, and mark items as purchased.",
+},
+{
+  name: "Bootstrap Email Template",
+  icon: "fa-solid fa-envelope-open-text",
+  description:
+    "The Bootstrap Email Template is a responsive HTML email design created using Bootstrap. I learned how to use flexbox.",
+},
+{
+  name: "Login UI",
+  icon: "fa-solid fa-sign-in-alt",
+  description:
+    "The Login UI is a sleek, responsive login page created with HTML and CSS. The design includes subtle animations for user interactions and is optimized for both desktop and mobile devices.",
+},
+{
+  name: "React Info Site",
+  icon: "fa-solid fa-circle-info",
+  description:
+    "The React Info Site is a single-page application built with React, showcasing key features and concepts of React. It includes a dark/light mode toggle, and the site is responsive.",
+}
   ];
 
   let benefits = [
     {
       metric: "10x",
-      name: "A bootcamp graduate & self-taught developer",
+      name: "A code academy graduate & self-taught developer",
       description:
-        "I graduated Bay Valley Tech Code Academy in June 2024. In addition to my bootcamp studies, I am a self-taught developer who has used free online resources to expand my knowledge and skills. I have a passion for the creative and problem-solving aspects of developing web application. I started with JavaScript, HTML & CSS and have since advanced to JavaScript frameworks. I am also actively expanding my knowledge in backend programming, design, and cloud services.",
+        "I graduated from Bay Valley Tech Code Academy in June 2024 and am a self-taught developer passionate about web development. My journey began with JavaScript, HTML & CSS, and I continue to expand my skills through online resources, exploring frameworks, backend programming, design, and cloud services.",
     },
     {
       name: "A detailed-oriented developer",
       description:
-        "As a junior developer, I prioritize attention to detail in my work. When it comes to coding I ensure clean and well-structured code that adheres to best practices. This focus on detail enables me to deliver high-quality solutions and contribute to the overall success of projects.",
+        "I prioritize clean, well-structured code and attention to detail, delivering high-quality solutions as a junior developer.",
     },
     {
       name: "A good communicator",
       description:
-        "I prioritize the value of communication and believe in fostering transparent and constructive interactions. By cultivating open lines of communication, I build strong relationships and contribute to the effectiveness and productivity of any team and work environment.",
+        "I value communication and foster transparent interactions to build strong relationships, enhancing team effectiveness and productivity.",
     },
   ];
 
@@ -111,15 +153,15 @@
       alt: "Certification 6",
     },
     {
-      src: "/assets/Hollis Brown-Student-ID-23166-Frontend Module.jpg",
+      src: "/assets/Hollis Brown-Student-ID-23166-Front End Web-App Development Course.jpg",
       alt: "Certification 7",
     },
     {
-      src: "/assets/Hollis Brown-Student-ID-23166-Backend Module.jpg",
+      src: "/assets/Hollis Brown-Student-ID-23166-Intro to Back-End Web-Development Module.jpg",
       alt: "Certification 8",
     },
     {
-      src: "/assets/Hollis Brown-Student-ID-23166-Full-Stack Module.jpg",
+      src: "/assets/Hollis Brown-Student-ID-23166-Full Stack Web-App Development Course.jpg",
       alt: "Certification 9",
     },
   ];
@@ -175,6 +217,7 @@
         Curious to <span class="poppins text-blue-500">see</span> my work?
       </h3>
     </div>
+    
     <div
       class="mx-auto text-4xl px-4 py-2 flex items-center gap-2 -mb-4 sm:-mb-0 mt-20"
     >
@@ -320,7 +363,54 @@
           UI!
         </p>
       </Step>
-    </div>
+      </div>
+      <div class="mx-auto text-4xl px-4 py-2 flex items-center gap-2 -mb-4 sm:-mb-0 -mt-2">
+        <span class="poppins text-blue-500">Code Academy</span>Projects
+      </div>
+      <div class="grid grid-cols-1 lg:grid-cols-4 gap-12 lg:gap-10 -mt-16">
+        <Step step={steps[10]}>
+          <p>
+            The Word Scramble Game is a <strong class="text-blue-500">JavaScript, HTML & CSS</strong> web application that challenges players to unscramble words. It features multiple difficulty levels, a scoring system, and a timer. The game uses local storage to save high scores and includes responsive design for mobile play.
+          </p>
+        </Step>
+        <Step step={steps[11]}>
+          <p>
+            The Landing Page is a responsive <strong class="text-blue-500">HTML, CSS, and JavaScript</strong> website for a vinyl record store. It showcases featured albums, includes an embedded music player, and implements smooth scrolling animations. The page is optimized for SEO and includes a contact form with form validation.
+          </p>
+        </Step>
+        <Step step={steps[12]}>
+          <p>
+            The Meme Generator is a <strong class="text-blue-500">React-based</strong> web application that allows users to create custom memes. It integrates with an external API to fetch popular meme images, enables text overlay with customizable fonts and positions, and provides options to download or share the created memes on social media.
+          </p>
+        </Step>
+        <Step step={steps[13]}>
+          <p>
+            The Grocery List is a CRUD application built with <strong class="text-blue-500">JavaScript, HTML, and CSS</strong>. It allows users to add, edit, delete, and mark items as purchased. The app uses local storage for data persistence, includes a search functionality, and features drag-and-drop for easy list reordering.
+          </p>
+        </Step>
+        <Step step={steps[14]}>
+          <p>
+            The Bootstrap Email Template is a responsive HTML email design created using <strong class="text-blue-500">Bootstrap</strong>. It includes customizable sections for headers, content blocks, and footers. The template is tested across various email clients for compatibility and includes inline CSS for consistent rendering.
+          </p>
+        </Step>
+        <Step step={steps[15]}>
+          <p>
+            The Login UI is a sleek, responsive login page created with <strong class="text-blue-500">HTML and CSS</strong>. It features form validation, password visibility toggle, and 'Remember Me' functionality. The design includes subtle animations for user interactions and is optimized for both desktop and mobile devices.
+          </p>
+        </Step>
+        <Step step={steps[16]}>
+          <p>
+            The React Info Site is a single-page application built with <strong class="text-blue-500">React</strong>, showcasing key features and concepts of React. It includes interactive code examples, a dark/light mode toggle, and a search function. The site is responsive and uses React Router for seamless navigation between different sections.
+          </p>
+        </Step>
+      </div>
+
+
+
+
+   
+
+
   </section>
   <Certifications {certifications} />
   <section
