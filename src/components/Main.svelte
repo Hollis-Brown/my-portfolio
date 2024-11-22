@@ -130,11 +130,11 @@
       description:
         "The React Info Site is a single-page application built with React, showcasing key features and concepts of React. It includes a dark/light mode toggle, and the site is responsive.",
       link: "https://dark-light-mode-react-info-site.netlify.app"
-    }
+    },
     {
       message: "",
       name: "Photography Portfolio",
-      icon: "fa-solid fa-circle-info",
+      icon: "fa-solid fa-camera",
       description:
         "The Photography Portfolio is a single-page application built with the WordPress CMS, showcasing a sleek modern website with excellent photographs, and the site is responsive.",
       link: "https://hollis882.wordpress.com/"
