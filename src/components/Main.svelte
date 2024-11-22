@@ -113,17 +113,29 @@
       metric: "10x",
       name: "A code academy graduate & self-taught developer",
       description:
+<<<<<<< HEAD
         "I graduated from Bay Valley Tech Code Academy in June 2024 and am a self-taught developer passionate about web development. My journey began with JavaScript, HTML & CSS, and I continue to expand my skills through online resources, exploring frameworks, backend programming, design, and cloud services.",
+=======
+        "I graduated Bay Valley Tech Code Academy in June 2024. In addition to my bootcamp studies, I am a self-taught developer who has used free online resources to expand my knowledge and skills. I have a passion for the creative and problem-solving aspects of developing web application. I started with JavaScript, HTML & CSS and have since advanced to JavaScript frameworks. I am also actively expanding my knowledge in backend programming, design, and cloud services..",
+>>>>>>> db32ce7636a521a047f7b09c6b4bc16b081e763c
     },
     {
       name: "A detailed-oriented developer",
       description:
+<<<<<<< HEAD
         "I prioritize clean, well-structured code and attention to detail, delivering high-quality solutions as a junior developer.",
+=======
+        "As a junior developer, I prioritize attention to detail and produce clean, well-structured code that follows best practices. This focus allows me to deliver high-quality solutions and contribute to project success.,",
+>>>>>>> db32ce7636a521a047f7b09c6b4bc16b081e763c
     },
     {
       name: "A good communicator",
       description:
+<<<<<<< HEAD
         "I value communication and foster transparent interactions to build strong relationships, enhancing team effectiveness and productivity.",
+=======
+        "I value communication and foster transparent, constructive interactions. By promoting open dialogue, I build strong relationships and enhance team effectiveness and productivity..",
+>>>>>>> db32ce7636a521a047f7b09c6b4bc16b081e763c
     },
   ];
 
