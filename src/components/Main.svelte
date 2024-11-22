@@ -4,6 +4,7 @@
 
   let steps = [
     {
+      message: "",
       name: "Dashboard App",
       icon: "fa fa-solid fa-line-chart",
       description:
@@ -11,6 +12,7 @@
         link: "https://nextjs-dashboard-app.netlify.app"
     },
     {
+      message: "",
       name: "Weather App",
       icon: "fa-solid fa-thermometer-half",
       description:
@@ -18,55 +20,63 @@
       link: "https://sleek-weather-app.netlify.app/"
     },
     {
-      name: "(Coming Soon) AI-designed Portfolio App",
+      message: "(Coming Soon)",
+      name: "AI-designed Portfolio App",
       icon: "fa-solid fa-robot",
       description:
         "The AI-designed Portfolio App is a React & Tailwind CSS web application, hosted on, that uses Midjourney AI to generate a design for a web portfolio, that is responsive and will make UI/UX designers stare in awe at its sleek user interface.",
     },
     {
-      message: "(Coming Soon)"
+      message: "(Coming Soon)",
       name: "Web Scraper Server",
       icon: "fa-solid fa-spider",
       description:
         "The Web Scraper Server is created with Node.js & Express.js! In this backend project I learned to create API endpoints where I employ a web-scraper to fetch the financial profile and price history for any stock, process the information, and return it back to the requester. I enjoyed learning data fetching and secure API key-storing best practices.",
     },
-    {
-      name: "(Coming Soon) CRON Job Server",
+    { 
+      message: "(Coming Soon)",
+      name: "CRON Job Server",
       icon: "fa-solid fa-clock",
       description:
         "The CRON Job Server is created with Cherrio, HTML, Node.js & Axios! In this project I learned to fetch HTML from Reddit.com pages and parse through the data to retrieve/scrape subreddit activity data from a webpage, schedule the scraping at regular intervals, and saving the data to a database. Lastly, I served up the data as a RESTful API.",
     },
     {
-      name: "(Coming Soon) Serverless Computing Project",
+      message: "(Coming Soon)",
+      name: "Serverless Computing Project",
       icon: "fa-solid fa-code",
       description:
         "The Google Cloud Functions Project is hosted on Google Cloud Platform, leveraging Serverless computing. It demonstrates the use of cloud functions as an alternative to traditional server setups, highlighting their configuration and setup process compared to custom servers.",
     },
     {
-      name: "(Coming Soon) E-commerce Store App",
+      message: "(Coming Soon)",
+      name: "E-commerce Store App",
       icon: "fa-solid fa-code",
       description:
         "The Next.js E-commerce Project is built with Next.js, TailwindCss, Google Fonts, and Font Awesome icons. It features a complete e-commerce setup with a Stripe checkout system, advanced store layout using Context API for state management, and optimized component configurations for enhanced functionality.",
     },
     {
-      name: "(Coming Soon) Social Media App",
+      message: "(Coming Soon)",
+      name: "Social Media App",
       icon: "fa-solid fa-users",
       description:
         "The Social Media App is created with Next.js, React.js, Tailwind CSS, Node.js, Express.js & MySql! It is a dynamic platform built to connect users through interactive posts, comments, and profiles. It features responsive design, user authentication, real-time updates, and intuitive UI/UX for seamless navigation and engagement.",
     },
     {
-      name: "(Coming Soon) Chat App",
+      message: "(Coming Soon)",
+      name: "Chat App",
       icon: "fa-solid fa-comment-dots",
       description:
         "The Chat App is a React.js & Material UI web application, hosted on Firebase, that handles state management with Zustand! It features real-time chat functionality with emoji support, user authentication, and image uploads. The app implements responsive design, message filtering, user blocking, and dynamic user chat retrieval, enhancing user interaction and experience.",
     },
     {
-      name: "(Coming Soon) Web Polling App",
+      message: "(Coming Soon)",
+      name: "Web Polling App",
       icon: "fa-solid fa-poll",
       description:
         "The Polling Web App is a JavaScript, HTML & CSS web application, hosted on Firebase, that has a Node.js server! It generates static webpages with client-side and server-side rendering, persists data from a CRUD API using Firestore from Firebase, and features a sleek UI!",
     },
     {
+      message: "",
       name: "Word Scramble Game",
       icon: "fa-solid fa-random",
       description:
@@ -74,6 +84,7 @@
         link: "https://hollis-brown.github.io/module-2-js-final-project-hollis-brown/start.html"
     },
     {
+      message: "",
       name: "Landing Page",
       icon: "fa-solid fa-record-vinyl",
       description:
@@ -81,6 +92,7 @@
         link: "https://landing-page-hollis.netlify.app"
     },
     {
+      message: "",
       name: "Meme Generator",
       icon: "fa-solid fa-laugh-squint",
       description:
@@ -88,6 +100,7 @@
         link: "https://hollis-meme-generator-v1.netlify.app"
     },
     {
+      message: "",
       name: "Grocery List",
       icon: "fa-solid fa-shopping-cart",
       description:
@@ -95,6 +108,7 @@
         link: "https://a-simple-grocery-list.netlify.app"
     },
     {
+      message: "",
       name: "Bootstrap Email Template",
       icon: "fa-solid fa-envelope-open-text",
       description:
@@ -102,6 +116,7 @@
       link: "https://bootstrap-email-template-v2.netlify.app"
     },
     {
+      message: "",
       name: "Login UI",
       icon: "fa-solid fa-sign-in-alt",
       description:
@@ -109,6 +124,7 @@
         link: "https://login-ui-hollis.netlify.app"
     },
     {
+      message: "",
       name: "React Info Site",
       icon: "fa-solid fa-circle-info",
       description:

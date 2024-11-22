@@ -12,6 +12,9 @@
   >
       <i class={step.icon} />
   </div>
+  <h4 class="font-small text-lg sm:text-xl md:text-2xl">
+    {step.message}
+  </h4>
   <h3 class="font-medium text-xl sm:text-2xl md:text-3xl">
       {step.name}
   </h3>
