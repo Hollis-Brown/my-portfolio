@@ -65,47 +65,47 @@
         "The Polling Web App is a JavaScript, HTML & CSS web application, hosted on Firebase, that has a Node.js server! It generates static webpages with client-side and server-side rendering, persists data from a CRUD API using Firestore from Firebase, and features a sleek UI!",
     },
     {
-  name: "Word Scramble Game",
-  icon: "fa-solid fa-random",
-  description:
-    "The Word Scramble Game is a JavaScript, HTML & CSS web application that challenges players to unscramble animal words. It features an attempts counter and a scoring system",
-},
-{
-  name: "Landing Page",
-  icon: "fa-solid fa-record-vinyl",
-  description:
-    "The Landing Page is a responsive HTML, CSS, and JavaScript website for a record player store. It showcases featured turntables, has an email signup, and has a lovely color scheme.",
-},
-{
-  name: "Meme Generator",
-  icon: "fa-solid fa-laugh-squint",
-  description:
-    "The Meme Generator is a React-based web application that allows users to create custom memes from randomly chosen memes. It integrates with an external API to fetch popular meme images, enables text overlay, and provides options to download or share the created memes on social media.",
-},
-{
-  name: "Grocery List",
-  icon: "fa-solid fa-shopping-cart",
-  description:
-    "The Grocery List is a CRUD application built with JavaScript, HTML, and CSS. It allows users to add, delete, and mark items as purchased.",
-},
-{
-  name: "Bootstrap Email Template",
-  icon: "fa-solid fa-envelope-open-text",
-  description:
-    "The Bootstrap Email Template is a responsive HTML email design created using Bootstrap. I learned how to use flexbox.",
-},
-{
-  name: "Login UI",
-  icon: "fa-solid fa-sign-in-alt",
-  description:
-    "The Login UI is a sleek, responsive login page created with HTML and CSS. The design includes subtle animations for user interactions and is optimized for both desktop and mobile devices.",
-},
-{
-  name: "React Info Site",
-  icon: "fa-solid fa-circle-info",
-  description:
-    "The React Info Site is a single-page application built with React, showcasing key features and concepts of React. It includes a dark/light mode toggle, and the site is responsive.",
-}
+      name: "Word Scramble Game",
+      icon: "fa-solid fa-random",
+      description:
+        "The Word Scramble Game is a JavaScript, HTML & CSS web application that challenges players to unscramble animal words. It features an attempts counter and a scoring system",
+    },
+    {
+      name: "Landing Page",
+      icon: "fa-solid fa-record-vinyl",
+      description:
+        "The Landing Page is a responsive HTML, CSS, and JavaScript website for a record player store. It showcases featured turntables, has an email signup, and has a lovely color scheme.",
+    },
+    {
+      name: "Meme Generator",
+      icon: "fa-solid fa-laugh-squint",
+      description:
+        "The Meme Generator is a React-based web application that allows users to create custom memes from randomly chosen memes. It integrates with an external API to fetch popular meme images, enables text overlay, and provides options to download or share the created memes on social media.",
+    },
+    {
+      name: "Grocery List",
+      icon: "fa-solid fa-shopping-cart",
+      description:
+        "The Grocery List is a CRUD application built with JavaScript, HTML, and CSS. It allows users to add, delete, and mark items as purchased.",
+    },
+    {
+      name: "Bootstrap Email Template",
+      icon: "fa-solid fa-envelope-open-text",
+      description:
+        "The Bootstrap Email Template is a responsive HTML email design created using Bootstrap. I learned how to use flexbox.",
+    },
+    {
+      name: "Login UI",
+      icon: "fa-solid fa-sign-in-alt",
+      description:
+        "The Login UI is a sleek, responsive login page created with HTML and CSS. The design includes subtle animations for user interactions and is optimized for both desktop and mobile devices.",
+    },
+    {
+      name: "React Info Site",
+      icon: "fa-solid fa-circle-info",
+      description:
+        "The React Info Site is a single-page application built with React, showcasing key features and concepts of React. It includes a dark/light mode toggle, and the site is responsive.",
+    }
   ];
 
   let benefits = [
@@ -113,29 +113,17 @@
       metric: "10x",
       name: "A code academy graduate & self-taught developer",
       description:
-<<<<<<< HEAD
         "I graduated from Bay Valley Tech Code Academy in June 2024 and am a self-taught developer passionate about web development. My journey began with JavaScript, HTML & CSS, and I continue to expand my skills through online resources, exploring frameworks, backend programming, design, and cloud services.",
-=======
-        "I graduated Bay Valley Tech Code Academy in June 2024. In addition to my bootcamp studies, I am a self-taught developer who has used free online resources to expand my knowledge and skills. I have a passion for the creative and problem-solving aspects of developing web application. I started with JavaScript, HTML & CSS and have since advanced to JavaScript frameworks. I am also actively expanding my knowledge in backend programming, design, and cloud services..",
->>>>>>> db32ce7636a521a047f7b09c6b4bc16b081e763c
     },
     {
       name: "A detailed-oriented developer",
       description:
-<<<<<<< HEAD
         "I prioritize clean, well-structured code and attention to detail, delivering high-quality solutions as a junior developer.",
-=======
-        "As a junior developer, I prioritize attention to detail and produce clean, well-structured code that follows best practices. This focus allows me to deliver high-quality solutions and contribute to project success.,",
->>>>>>> db32ce7636a521a047f7b09c6b4bc16b081e763c
     },
     {
       name: "A good communicator",
       description:
-<<<<<<< HEAD
         "I value communication and foster transparent interactions to build strong relationships, enhancing team effectiveness and productivity.",
-=======
-        "I value communication and foster transparent, constructive interactions. By promoting open dialogue, I build strong relationships and enhance team effectiveness and productivity..",
->>>>>>> db32ce7636a521a047f7b09c6b4bc16b081e763c
     },
   ];
 
