@@ -131,6 +131,14 @@
         "The React Info Site is a single-page application built with React, showcasing key features and concepts of React. It includes a dark/light mode toggle, and the site is responsive.",
       link: "https://dark-light-mode-react-info-site.netlify.app"
     }
+    {
+      message: "",
+      name: "Photography Portfolio",
+      icon: "fa-solid fa-circle-info",
+      description:
+        "The Photography Portfolio is a single-page application built with the WordPress CMS, showcasing a sleek modern website with excellent photographs, and the site is responsive.",
+      link: "https://hollis882.wordpress.com/"
+    }
   ];
 
   let benefits = [
@@ -426,6 +434,11 @@
         <Step step={steps[16]}>
           <p>
             The React Info Site is a single-page application built with <strong class="text-blue-500">React</strong>, showcasing key features and concepts of React. It includes a dark/light mode toggle, and the site is responsive.
+          </p>
+        </Step>
+        <Step step={steps[17]}>
+          <p>
+            The Photography Portfolio is a single-page application built with <strong class="text-blue-500">the WordPress CMS</strong>, showcasing a sleek modern website with excellent photographs, and the site is responsive.
           </p>
         </Step>
       </div>
