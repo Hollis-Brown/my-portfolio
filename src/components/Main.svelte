@@ -7,8 +7,8 @@
       name: "Dashboard App",
       icon: "fa fa-solid fa-line-chart",
       description:
-        "The React Admin Dashboard is created with Next.js, Tailwind & TypeScript! In this sleek project, I focused on crafting a responsive admin template. Using a grid system for layout, I designed and styled various components like charts, lists, and containers using CSS.",
-        link: "https://nextjs-dashboard-app.netlify.app/"
+        "The Dashboard App is created with Next.js, Tailwind & TypeScript! In this sleek project, I focused on crafting a responsive admin template. Using a grid system for layout, I designed and styled various components like charts, lists, and containers using CSS.",
+        link: "https://nextjs-dashboard-app.netlify.app"
     },
     {
       name: "Weather App",
@@ -18,49 +18,49 @@
       link: "https://sleek-weather-app.netlify.app/"
     },
     {
-      name: "AI-designed Portfolio App",
+      name: "(Coming Soon) AI-designed Portfolio App",
       icon: "fa-solid fa-robot",
       description:
         "The AI-designed Portfolio App is a React & Tailwind CSS web application, hosted on, that uses Midjourney AI to generate a design for a web portfolio, that is responsive and will make UI/UX designers stare in awe at its sleek user interface.",
     },
     {
-      name: "Web Scraper Server",
+      name: "(Coming Soon) Web Scraper Server",
       icon: "fa-solid fa-spider",
       description:
         "The Web Scraper Server is created with Node.js & Express.js! In this backend project I learned to create API endpoints where I employ a web-scraper to fetch the financial profile and price history for any stock, process the information, and return it back to the requester. I enjoyed learning data fetching and secure API key-storing best practices.",
     },
     {
-      name: "CRON Job Server",
+      name: "(Coming Soon) CRON Job Server",
       icon: "fa-solid fa-clock",
       description:
         "The CRON Job Server is created with Cherrio, HTML, Node.js & Axios! In this project I learned to fetch HTML from Reddit.com pages and parse through the data to retrieve/scrape subreddit activity data from a webpage, schedule the scraping at regular intervals, and saving the data to a database. Lastly, I served up the data as a RESTful API.",
     },
     {
-      name: "Serverless Computing Project",
+      name: "(Coming Soon) Serverless Computing Project",
       icon: "fa-solid fa-code",
       description:
         "The Google Cloud Functions Project is hosted on Google Cloud Platform, leveraging Serverless computing. It demonstrates the use of cloud functions as an alternative to traditional server setups, highlighting their configuration and setup process compared to custom servers.",
     },
     {
-      name: "E-commerce Store App",
+      name: "(Coming Soon) E-commerce Store App",
       icon: "fa-solid fa-code",
       description:
         "The Next.js E-commerce Project is built with Next.js, TailwindCss, Google Fonts, and Font Awesome icons. It features a complete e-commerce setup with a Stripe checkout system, advanced store layout using Context API for state management, and optimized component configurations for enhanced functionality.",
     },
     {
-      name: "Social Media App",
+      name: "(Coming Soon) Social Media App",
       icon: "fa-solid fa-users",
       description:
         "The Social Media App is created with Next.js, React.js, Tailwind CSS, Node.js, Express.js & MySql! It is a dynamic platform built to connect users through interactive posts, comments, and profiles. It features responsive design, user authentication, real-time updates, and intuitive UI/UX for seamless navigation and engagement.",
     },
     {
-      name: "Chat App",
+      name: "(Coming Soon) Chat App",
       icon: "fa-solid fa-comment-dots",
       description:
         "The Chat App is a React.js & Material UI web application, hosted on Firebase, that handles state management with Zustand! It features real-time chat functionality with emoji support, user authentication, and image uploads. The app implements responsive design, message filtering, user blocking, and dynamic user chat retrieval, enhancing user interaction and experience.",
     },
     {
-      name: "Web Polling App",
+      name: "(Coming Soon) Web Polling App",
       icon: "fa-solid fa-poll",
       description:
         "The Polling Web App is a JavaScript, HTML & CSS web application, hosted on Firebase, that has a Node.js server! It generates static webpages with client-side and server-side rendering, persists data from a CRUD API using Firestore from Firebase, and features a sleek UI!",
