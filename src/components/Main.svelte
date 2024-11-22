@@ -7,7 +7,8 @@
       name: "Dashboard App",
       icon: "fa fa-solid fa-line-chart",
       description:
-        "The React Admin Dashboard is created with React.js, JSX & CSS! In this sleek project, I focused on crafting a responsive admin template. Using a grid system for layout, I designed and styled various components like charts, lists, and containers using CSS.",
+        "The React Admin Dashboard is created with Next.js, Tailwind & TypeScript! In this sleek project, I focused on crafting a responsive admin template. Using a grid system for layout, I designed and styled various components like charts, lists, and containers using CSS.",
+        link: "https://nextjs-dashboard-app.netlify.app/"
     },
     {
       name: "Weather App",
@@ -69,42 +70,49 @@
       icon: "fa-solid fa-random",
       description:
         "The Word Scramble Game is a JavaScript, HTML & CSS web application that challenges players to unscramble animal words. It features an attempts counter and a scoring system.",
+        link: "https://hollis-brown.github.io/module-2-js-final-project-hollis-brown/start.html"
     },
     {
       name: "Landing Page",
       icon: "fa-solid fa-record-vinyl",
       description:
         "The Landing Page is a responsive HTML, CSS, and JavaScript website for a record player store. It showcases featured turntables, has an email signup, and has a lovely color scheme.",
+        link: "https://landing-page-hollis.netlify.app"
     },
     {
       name: "Meme Generator",
       icon: "fa-solid fa-laugh-squint",
       description:
         "The Meme Generator is a React-based web application that allows users to create custom memes from randomly chosen memes. It integrates with an external API to fetch popular meme images, enables text overlay, and provides options to download or share the created memes on social media.",
+        link: "https://hollis-meme-generator-v1.netlify.app"
     },
     {
       name: "Grocery List",
       icon: "fa-solid fa-shopping-cart",
       description:
         "The Grocery List is a CRUD application built with JavaScript, HTML, and CSS. It allows users to add, delete, and mark items as purchased.",
+        link: "https://a-simple-grocery-list.netlify.app"
     },
     {
       name: "Bootstrap Email Template",
       icon: "fa-solid fa-envelope-open-text",
       description:
         "The Bootstrap Email Template is a responsive HTML email design created using Bootstrap. I learned how to use flexbox.",
+      link: "https://bootstrap-email-template-v2.netlify.app"
     },
     {
       name: "Login UI",
       icon: "fa-solid fa-sign-in-alt",
       description:
         "The Login UI is a sleek, responsive login page created with HTML and CSS. The design includes subtle animations for user interactions and is optimized for both desktop and mobile devices.",
+        link: "https://login-ui-hollis.netlify.app"
     },
     {
       name: "React Info Site",
       icon: "fa-solid fa-circle-info",
       description:
         "The React Info Site is a single-page application built with React, showcasing key features and concepts of React. It includes a dark/light mode toggle, and the site is responsive.",
+      link: "https://dark-light-mode-react-info-site.netlify.app"
     }
   ];
 
@@ -227,9 +235,9 @@
       <Step step={steps[0]}>
         <p>
           The React Admin Dashboard is created with <strong
-            class="text-blue-500">React.js, JSX</strong
+            class="text-blue-500">Next.js, Tailwind</strong
           >
-          & <strong class="text-blue-500">CSS</strong>! In this sleek project I
+          & <strong class="text-blue-500">TypeScript</strong>! In this sleek project I
           focused on crafting a responsive admin template. Using a grid system
           for layout, I designed and styled various components like charts,
           lists, and containers using CSS.
