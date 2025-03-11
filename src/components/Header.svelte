@@ -5,7 +5,7 @@
       { name: "Projects ", link: "#projects" },
       { name: "Certifications ", link: "#certifications" },
       { name: "About me", link: "#about" },
-      { name: "Resume", link: "http://localhost:5173/assets/hollis-dev-resume.pdf"}
+      { name: "Resume", link: "assets/hollis-dev-resume.pdf"}
   ];
 </script>
 
