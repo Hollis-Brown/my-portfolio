@@ -85,11 +85,11 @@
     },
     {
       message: "",
-      name: "Landing Page",
+      name: "Sahara Market Landing Page",
       icon: "fa-solid fa-record-vinyl",
       description:
-        "The Landing Page is a responsive HTML, CSS, and JavaScript website for a record player store. It showcases featured turntables, has an email signup, and has a lovely color scheme.",
-        link: "https://landing-page-hollis.netlify.app"
+        "The Sahara Market Landing Page is a responsive HTML, CSS, and JavaScript website for a local Mediterranean Store. It showcases the store's products, cool animation effects, and has a modern design and color scheme.",
+        link: "https://saharamarketmodesto.com"
     },
     {
       message: "",
@@ -408,7 +408,7 @@
         </Step>
         <Step step={steps[11]}>
           <p>
-            The Landing Page is a responsive <strong class="text-blue-500">HTML, CSS, and JavaScript</strong> website for a record player store. It showcases featured turntables, has an email signup, and has a lovely color scheme.
+            The Sahara Market Landing Page is a responsive <strong class="text-blue-500">HTML, CSS, and JavaScript</strong> website for a record player store. It showcases featured turntables, has an email signup, and has a lovely color scheme.
           </p>
         </Step>
         <Step step={steps[12]}>
